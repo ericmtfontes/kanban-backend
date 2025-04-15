@@ -1,0 +1,13 @@
+version: '3.5'
+
+services:
+  db:
+    image: postgres
+    container_name: postgres-bd
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: kanban_board
+    ports:
+      - "5432:5432"
