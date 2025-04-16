@@ -6,7 +6,7 @@ Api de tarefas que vai ser consumida pelo projeto kanban-frontend.
 
 - [Java 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
 - [Spring Boot](https://spring.io/projects/spring-boot)
-- [Maven](https://maven.apache.org/) ou [Gradle](https://gradle.org/)
+- [Maven](https://maven.apache.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 - [Docker Compose](https://docs.docker.com/compose/)
