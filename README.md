@@ -19,7 +19,7 @@ Você precisará ter instalado:
 - [Docker](https://www.docker.com/get-started) (Opcional. Só precisa ser instalado caso for subir o banco via docker-compose)
 - [Docker Compose](https://docs.docker.com/compose/install/) (Opcional. Só precisa ser instalado caso for subir o banco via docker-compose)
 - [Git](https://git-scm.com/)
-- [Maven](https://maven.apache.org/) ou [Gradle](https://gradle.org/)
+- [Maven](https://maven.apache.org/)
 
 Verifique se estão instalados:
 
